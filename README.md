@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Hello World, I'm Tanaya!](assets/header.mp4)](https://github.com/NaikTanaya)
+[![Hello World, I'm Tanaya!](assets/tanaya.gif)](https://github.com/NaikTanaya)
 
 </div>
 <!--
