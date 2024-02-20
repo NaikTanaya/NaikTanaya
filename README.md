@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+
+[![Hello World, I'm Tanaya!](assets/header.gif)](https://github.com/NaikTanaya)
+
+</div>
 <!--
 **NaikTanaya/NaikTanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
