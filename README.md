@@ -1,5 +1,5 @@
 
-[![Hello World, I'm Tanaya!](assets/tanaya.gif)](https://github.com/NaikTanaya)
+<!--[![Hello World, I'm Tanaya!](assets/tanaya.gif)](https://github.com/NaikTanaya) -->
 
 - 👋 Hi, I’m Tanaya Naik
 - 👀 I’m currently creating projects using ```SPRINGBOOT```.
@@ -37,23 +37,35 @@ Domain | My Expertise
 **Tools & Platform**  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) 
 
 
-🔥 **Streak Stats**
-<p align="center">
-    <img width="450em" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaikTanaya&theme=black-ice" alt="mystats"  />
-</p>
+<!--🔥 **Streak Stats**
 
-📈 **My GitHub Stats:**
-<p  align="left"> 
+ <img width="450em" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=ryo-ma&theme=black-ice" alt="mystats"  />-->
+
+
+📈 **My GitHub Stats &** 🔥 **Streak Stats**
+<!--<p  align="left"> 
 <a href="https://github.com/NaikTanaya">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaikTanaya&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaikTanaya&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaikTanaya&theme=algolia" alt="NaikTanaya"/>
     <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket95droid&theme=algolia&hide_border=true&hide=c%2B%2B&layout=compact"/> -->
-</a>
-</p>
+<!--</a>
+</p>-->
 
+<div>
+  <img width="440px"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaikTanaya&show_icons=true&theme=algolia">
+  <img width="380px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NaikTanaya&layout=compact&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=NaikTanaya&theme=react-dark&include_all_commits=true&count_private=true">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaikTanaya&theme=algolia" />
+</div>
+
+  
+  <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaikTanaya&theme=algolia&hide_border=true" alt="NaikTanaya"/>
+  
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/NaikTanaya/NaikTanaya/output/github-contribution-grid-snake-dark.svg)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
