@@ -10,7 +10,7 @@
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
     <a href='https://tanaya-portfolio.vercel.app/' target='_blank'>
-        <img src='https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white'/>
+        <img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/>
     </a>
     <a href='https://twitter.com/TanayaNaik3' target='_blank'>
         <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
