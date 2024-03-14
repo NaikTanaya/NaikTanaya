@@ -36,8 +36,8 @@ Domain | My Expertise
 **OS**  | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 **Tools & Platform**  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) 
 
-🔥 **Streak Stats**
 
+🔥 **Streak Stats**
 <p align="center">
     <img width="450em" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaikTanaya&theme=black-ice" alt="mystats"  />
 </p>
