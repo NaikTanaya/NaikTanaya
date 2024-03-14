@@ -5,7 +5,7 @@
 - 👀 I’m currently creating projects using ```SPRINGBOOT```.
 - 🌱 I’m currently learning ```Cloud``` fundamentals, ```Data Structures and Algorithms``` and ```AI , ML```.
 - 📫 How to reach me 
-<p align='center'>
+<p>
     <a href='https://www.linkedin.com/in/tanaya-naik-92247622a/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
