@@ -1,7 +1,8 @@
 
 <!--[![Hello World, I'm Tanaya!](assets/tanaya.gif)](https://github.com/NaikTanaya) -->
+<h1 align="center">Hey friend👋, I'm Tanaya Naik</h1>
 
-- 👋 Hi, I’m Tanaya Naik
+- ✍ I'm an aspiring Software Developer from INDIA .
 - 👀 I’m currently creating projects using ```SPRINGBOOT```.
 - 🌱 I’m currently learning ```Cloud``` fundamentals, ```Data Structures and Algorithms``` and ```AI , ML```.
 - 📫 How to reach me 
@@ -67,5 +68,5 @@ Domain | My Expertise
 </a>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
